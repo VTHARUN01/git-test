@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+nav{
+  display: flex;
+  padding:10px;
+}
+div{
+  display: flex;
+  width:50%;
+  margin: auto;
+  margin-top:10px;
+}
+span{
+  border: 1px solid black;
+  background-color: yellow;
+}
